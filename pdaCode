@@ -1,16 +1,12 @@
-/*
-Kevin Chan
-kkc22
-*/
 package project2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class p2_16f_kkc22 {
+public class pdaCode {
     
     public static void main(String[] args) {
-        p2_16f_kkc22 p2 = new p2_16f_kkc22();
+        pdaCode p2 = new pdaCode();
         Scanner scanner = new Scanner(System.in);
         String answer;
         String input;
